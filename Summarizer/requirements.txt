@@ -1,0 +1,6 @@
+streamlit
+Pillow
+beautifulsoup4
+newspaper3k
+nltk
+google-cloud-storage
